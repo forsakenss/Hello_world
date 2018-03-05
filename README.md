@@ -1,2 +1,5 @@
-# Hello_world
-First_programm
+// Hello_world
+main()
+{
+
+}
